@@ -1,0 +1,17 @@
+D:\MediatR\MediatR\Business\bin\Debug\net6.0\Business.deps.json
+D:\MediatR\MediatR\Business\bin\Debug\net6.0\Business.dll
+D:\MediatR\MediatR\Business\bin\Debug\net6.0\ref\Business.dll
+D:\MediatR\MediatR\Business\bin\Debug\net6.0\Business.pdb
+D:\MediatR\MediatR\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+D:\MediatR\MediatR\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\MediatR\MediatR\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+D:\MediatR\MediatR\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+D:\MediatR\MediatR\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+D:\MediatR\MediatR\Business\obj\Debug\net6.0\Business.dll
+D:\MediatR\MediatR\Business\obj\Debug\net6.0\ref\Business.dll
+D:\MediatR\MediatR\Business\obj\Debug\net6.0\Business.pdb
+D:\MediatR\MediatR\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+D:\MediatR\MediatR\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+D:\MediatR\MediatR\Business\bin\Debug\net6.0\DataAccess.dll
+D:\MediatR\MediatR\Business\bin\Debug\net6.0\DataAccess.pdb
+D:\MediatR\MediatR\Business\obj\Debug\net6.0\Business.csproj.CopyComplete

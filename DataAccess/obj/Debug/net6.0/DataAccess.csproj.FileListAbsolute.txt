@@ -1,0 +1,14 @@
+D:\MediatR\MediatR\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\MediatR\MediatR\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\MediatR\MediatR\DataAccess\bin\Debug\net6.0\ref\DataAccess.dll
+D:\MediatR\MediatR\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\MediatR\MediatR\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\MediatR\MediatR\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\MediatR\MediatR\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\MediatR\MediatR\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\MediatR\MediatR\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\MediatR\MediatR\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\MediatR\MediatR\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\MediatR\MediatR\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\MediatR\MediatR\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\MediatR\MediatR\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
